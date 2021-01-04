@@ -1,0 +1,25 @@
+img{
+    display: block;
+    margin: auto;
+    width: 130px;
+    
+}
+
+table,td {
+    border: 1px solid #333;
+}
+
+thead {
+    background-color: #333;
+    color: #fff;
+}
+
+h2{
+    text-align: center;
+    color: rgb(15, 1, 1);
+    font-size: 44px;
+}
+h3{
+    text-align: center;
+    color: rgb(105, 2, 2);
+}
