@@ -1,7 +1,7 @@
 'use strict';
 let min , max ,ND , NF, i,j;
 min = 1;
-max = parseFloat(window.prompt('introduire le nombre de faces'));
+max = parseFloat(window.prompt('introduire le nombre de faces /n entre 1 et 12'));
 let res;
 function getRandomInteger(min,max)
  {
